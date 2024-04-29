@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we'll be grouping different reviews from npr.csv file on various topics using NMF(Non-Matrix-Factorization) in Natural Language Processing.** <br></br>
+**In this project we'll be grouping different reviews from npr.csv file to various topics using NMF(Non-Matrix-Factorization) in Natural Language Processing.** <br></br>
 
 We will perform three tasks to perform the final grouping of different reviews on topics:<br></br>
 
