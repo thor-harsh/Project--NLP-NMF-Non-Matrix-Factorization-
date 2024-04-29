@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we'll be grouping different reviews on various topics using NMF(Non-Matrix-Factorization) in Natural Language Processing.** <br></br>
+**In this project we'll be grouping different reviews from npr.csv file on various topics using NMF(Non-Matrix-Factorization) in Natural Language Processing.** <br></br>
 
 We will perform three tasks to perform the final grouping of different reviews on topics:<br></br>
 
@@ -15,7 +15,7 @@ Here we will using TfIdfVectorization whereas in LDA(LatentDirichletAllocation) 
 **Before jumping to the code lets understand NMF(Non-Matrix-Factorization), and NLP(Natural Language Processing) First**...<br></br>
 
 
-**What is LDA?** <br></br>
+**What is NMF?** <br></br>
 
 Non-negative Matrix Factorization (NMF) is a dimensionality reduction technique commonly used in Natural Language Processing (NLP) for topics extraction and document clustering. In NMF, a matrix representing the relationships between terms (words) and documents is factorized into two lower-dimensional matrices, typically referred to as the term-topic matrix and the topic-document matrix.
 
