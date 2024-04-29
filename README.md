@@ -10,14 +10,14 @@ We will perform three tasks to perform the final grouping of different reviews o
 2: Grabbing the topic<br>
 3: Grabbing the words with highest probability for a given topic<br></br>
 
-Here we will using TfIdfVectorization whereas in LDA(LatentDirichletAllocation) we have used CountVectorizer for creating the sparse matrix
+Here we will using TfIdfVectorization whereas in LDA(LatentDirichletAllocation) we have used CountVectorizer for creating the sparse matrix.<br>
 
 **Before jumping to the code lets understand NMF(Non-Matrix-Factorization), and NLP(Natural Language Processing) First**...<br></br>
 
 
 **What is NMF?** <br></br>
 
-Non-negative Matrix Factorization (NMF) is a dimensionality reduction technique commonly used in Natural Language Processing (NLP) for topics extraction and document clustering. In NMF, a matrix representing the relationships between terms (words) and documents is factorized into two lower-dimensional matrices, typically referred to as the term-topic matrix and the topic-document matrix.
+Non-negative Matrix Factorization (NMF) is a dimensionality reduction technique commonly used in Natural Language Processing (NLP) for topics extraction and document clustering. In NMF, a matrix representing the relationships between terms (words) and documents is factorized into two lower-dimensional matrices, typically referred to as the term-topic matrix and the topic-document matrix. <br></br>
 
 **What is (NLP)Natural Language Processing**?<br></br>
 
