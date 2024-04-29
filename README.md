@@ -8,9 +8,9 @@ We will perform three tasks to perform the final grouping of different reviews o
 
 1: We will grab vocabulary of words <br>
 2: Grabbing the topic<br>
-3: Grabbing the words with highest probability for a given topic<br></br>
+3: Grabbing the words with highest probability for a given topic<br>
 
-Here we will using TfIdfVectorization whereas in LDA(LatentDirichletAllocation) we have used CountVectorizer for creating the sparse matrix.<br>
+Here we will using TfIdfVectorization whereas in LDA(LatentDirichletAllocation) we have used CountVectorizer for creating the sparse matrix.<br></br>
 
 **Before jumping to the code lets understand NMF(Non-Matrix-Factorization), and NLP(Natural Language Processing) First**...<br></br>
 
